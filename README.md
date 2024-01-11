@@ -16,4 +16,4 @@ Se siete interessati al mio lavoro potete contattarmi:
 - [LinkedIn](https://www.linkedin.com/in/imad-el-din-mohamed-full-stack-developer/)
 
 - ## PORTFOLIO
-- https://imadeldinmohamed.github.io/portfolio-Imad-Mohamed/
+https://imadeldinmohamed.github.io/portfolio-Imad-Mohamed/
