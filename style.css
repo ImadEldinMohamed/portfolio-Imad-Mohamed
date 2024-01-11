@@ -124,3 +124,7 @@ body {
  .footer{
     animation: fadeIn 4s ease-out;
  }
+
+ .linea{
+    white-space: nowrap;
+ }
